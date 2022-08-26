@@ -970,8 +970,8 @@ Blog
 
 .blog-center {
   display: grid;
-  gap: 1.5rem;
-  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 3rem 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
 }
 
 /*
